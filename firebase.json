@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "terrific-coffee",
+    "site": "terrific-coffee-k7ier",
     "public": "dist",
     "ignore": [
       "firebase.json",
